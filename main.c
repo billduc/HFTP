@@ -1,5 +1,5 @@
 /*
- * Part of Very Secure FTPd
+ * Part of Very Secure FTPds
  * Licence: GPL v2
  * Author: Chris Evans
  * main.c
